@@ -34,12 +34,7 @@ Let's unlock the potential of Smart Education, one question at a time.
 
 Here are the technologies and tools we used to build our AI solution:
 
-example :
-
-* **HTML** <img src="https://img.shields.io/badge/HTML5-E34F2C?style=for-the-badge&logo=html5" alt="HTML5">
-* **CSS** <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
-* **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-* [More technologies/tools used]
+* **Python** "C:\Users\YASHVI\Downloads\final3.py"
 
 ## Project Features and Functionality ✨
 1.Personalized Learning: The AI-powered system tailors learning experiences to individual needs. Users receive questions at the right difficulty level, ensuring they are appropriately challenged without feeling overwhelmed. This personalization optimizes the learning curve, making education more effective and engaging.
@@ -77,18 +72,30 @@ Feedback from users is incorporated into system enhancements and updates to ensu
 
 KEY COMPONENTS:
 -Innovative Way to study
--
+-3 levels of difficulty
+-storage of your progress
+-score of your intelligence
+-time taken to attempt
 
 ## Challenges and Solutions 🧠
-Share any challenges our team faced during development and how you overcame them. This can include technical obstacles, data-related issues, or creative roadblocks.
+- Timer was not working properly
+- code was not connecting to the database
+- Database was not accessible
+- Question were not changing properly at a time
+- when question were properly appered then time was not changing
+- Login page and exit page both were not accessed properly  
 
 ## Future Enhancements 🚧
-Detail the future improvements and additional features your plan to implement in our AI project. This could include expanding the model's capabilities, integrating new data sources, or enhancing the user experience.
+more subject will be added.
+self subject will be added due to which AI will help to practice the question to the user
+limited question bank will be removed and generative AI will be added 
+many more education sites will be attached to practice more question.
 
 ## Screenshots and Demos 📸
 Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration.
 
 ## Acknowledgments 🙌
-
+All team members have worked so hard and coordinated with each other proficiency.
 
 ## Get In Touch! 📬
+
